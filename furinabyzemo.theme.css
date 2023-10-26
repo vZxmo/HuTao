@@ -1,0 +1,53 @@
+/**
+ * @name furinabyzemo
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://cdn.donmai.us/original/1f/46/1f46eb066eaa44bf36c2504dee9f17d7.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://pbs.twimg.com/media/FoYLMUnXsAkZ34t.jpg');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.pinimg.com/736x/3b/53/ad/3b53ad545d63619c02e2c0ee8ca23fe0.jpg');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.pinimg.com/736x/42/75/29/42752965b90aab769a69cfa988f06307.jpg');
+  --home-button-size: 120%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.7;
+  --left-brightness: 0.68;
+  --middle-brightness: 0.44;
+  --right-brightness: 0.08;
+  --overlay-brightness: 0.66;
+  --gradient-primary: 58,183,146;
+  --gradient-secondary: 63,81,181;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgb(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 51,225,255;
+  --tint-brightness: 0;
+  --font: gg sans;
+  --window-padding: 1px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
